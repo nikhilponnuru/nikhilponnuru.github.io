@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://nikhilponnuru.github.io//</loc>
+    <lastmod>2016-03-14T08:13:56+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  
+  <url>
+    <loc>http://nikhilponnuru.github.io//index.html</loc>
+    
+      <lastmod>2016-03-14T08:13:56+05:30</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://nikhilponnuru.github.io//projects.html</loc>
+    
+      <lastmod>2016-03-14T08:13:56+05:30</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://nikhilponnuru.github.io//sitemap.xml</loc>
+    
+      <lastmod>2016-03-14T08:13:56+05:30</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://nikhilponnuru.github.io//404.html</loc>
+    
+      <lastmod>2016-03-14T08:13:56+05:30</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://nikhilponnuru.github.io//atom.xml</loc>
+    
+      <lastmod>2016-03-14T08:13:56+05:30</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://nikhilponnuru.github.io//blog.html</loc>
+    
+      <lastmod>2016-03-14T08:13:56+05:30</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+</urlset>

@@ -1,0 +1,25 @@
+highlighter: pygments
+markdown: rdiscount
+rdiscount:
+  extensions: [smart]
+permalink: /:title.html
+paginate: 5
+gems: [jekyll-paginate]
+port: 3000
+safe: true
+
+
+url: http://nikhilponnuru.github.io/
+baseurl: http://nikhilponnuru.github.io/
+title: Nikhil Ponnuru
+author: Nikhil Kumar
+description: Homepage of NikhilPonnuru.
+avatar: profile.jpg
+email: ponnurunikhilkumar@gmail.com
+github: nikhilponnuru # username
+twitter: NikhilPonnuru
+
+
+
+# needed for travis-ci build
+exclude: [vendor]
